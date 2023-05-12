@@ -33,6 +33,7 @@ Download:
 
 
 ## Описание реализации:
+Python 3.11.3
 1. После скачивания установаить все библиотеки requirements.txt
 2. Создать postgresql базу данных и поместить данны в файл configs/config.yml
 3. Запустить src/app.py
